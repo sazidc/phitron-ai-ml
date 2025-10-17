@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+*.env
+
+# Conda folders
+conda-meta/
+envs/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
