@@ -1,6 +1,6 @@
 # Phitron AI/ML Course
 
-This repository contains materials, code, and experiments for the Phitron AI/ML course.
+This repository contains materials, code, and projects for the Phitron AI/ML course.
 
 ## Setup
 
